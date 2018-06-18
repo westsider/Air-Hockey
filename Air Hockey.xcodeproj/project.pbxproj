@@ -54,11 +54,11 @@
 		0D0D88EC20D7E116009E706C /* Air Hockey */ = {
 			isa = PBXGroup;
 			children = (
-				0D0D88ED20D7E117009E706C /* AppDelegate.swift */,
-				0D0D88EF20D7E117009E706C /* ViewController.swift */,
 				0D0D88F120D7E117009E706C /* Main.storyboard */,
+				0D0D88EF20D7E117009E706C /* ViewController.swift */,
 				0D0D88F420D7E118009E706C /* Assets.xcassets */,
 				0D0D88F620D7E118009E706C /* LaunchScreen.storyboard */,
+				0D0D88ED20D7E117009E706C /* AppDelegate.swift */,
 				0D0D88F920D7E118009E706C /* Info.plist */,
 			);
 			path = "Air Hockey";
