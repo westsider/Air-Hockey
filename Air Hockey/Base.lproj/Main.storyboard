@@ -100,6 +100,16 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="bottomGoal" destination="FGR-UR-kOC" id="CGU-bf-4Rg"/>
+                        <outlet property="bottomHalf" destination="bgQ-Kk-uul" id="CPg-Va-Xu4"/>
+                        <outlet property="bottomPaddle" destination="7aK-5c-y4N" id="HI2-5X-x7f"/>
+                        <outlet property="centerLine" destination="1H0-Sw-2vB" id="c86-xg-2Tq"/>
+                        <outlet property="puck" destination="26v-w4-Qvh" id="76K-de-jDf"/>
+                        <outlet property="topGoal" destination="cAX-BJ-R1c" id="nHx-az-m8b"/>
+                        <outlet property="topHalf" destination="0Qf-yC-FgG" id="YH8-nv-Oci"/>
+                        <outlet property="topPaddle" destination="qh5-LD-vcC" id="Xo4-XW-PJj"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

@@ -9,15 +9,25 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet weak var centerLine: UIView!
+    
+    @IBOutlet weak var topHalf: UIView!
+    
+    @IBOutlet weak var bottomHalf: UIView!
+    
+    @IBOutlet weak var topGoal: UIView!
+    
+    @IBOutlet weak var bottomGoal: UIView!
+    
+    @IBOutlet weak var topPaddle: UIView!
+    
+    @IBOutlet weak var bottomPaddle: UIView!
+    
+    @IBOutlet weak var puck: UIView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
 
 
